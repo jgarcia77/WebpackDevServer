@@ -1,0 +1,17 @@
+{
+    "name": "webpackdevserver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/js/app.js",
+    "scripts": {
+        "start": "webpack-dev-server"
+    },
+    "keywords": [],
+    "author": "Josue Garcia",
+    "license": "ISC",
+    "devDependencies": {
+        "node-libs-browser": "^2.1.0",
+        "webpack": "^3.8.1"
+    },
+    "dependencies": {}
+}
